@@ -1,9 +1,12 @@
 import React from 'react';
 
+// Components
+import Footer from './components/Footer';
+
 const App = () => {
   return (
     <div>
-      This react app is made from scratch...
+      <Footer />
     </div>
   );
 };

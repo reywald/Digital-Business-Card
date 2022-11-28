@@ -9,4 +9,5 @@ The Scrimba template file url: https://www.figma.com/file/pTLddU6bmsbHF4q16Yejpc
 ## Steps
 1. Create an empty react project
 2. Inside the src folder, create a components folder
-3. 
+3. Create Info, Interests, About, Footer react component files
+4. Add social media handle icons and display in the Footer component

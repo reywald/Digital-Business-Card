@@ -1,4 +1,18 @@
 body {
   margin: 0;
-  background-color: #23252C;
+  background-color: #484c5a;
+  margin: 0 auto;
+  width: 50%;
+}
+
+footer {
+  background-color: #161619;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 25px 40px;
+}
+
+footer > img {
+  width: 25px;
 }
