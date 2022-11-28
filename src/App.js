@@ -1,13 +1,13 @@
 import React from 'react';
 
 // Components
-import About from './components/About';
+import Info from './components/Info';
 import Footer from './components/Footer';
 
 const App = () => {
   return (
     <div>
-      <About />
+      <Info />
       <Footer />
     </div>
   );

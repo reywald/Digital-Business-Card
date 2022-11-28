@@ -8,8 +8,6 @@ const About = () => {
         in general. I try to learn new technologies as they appear. I am also a Software 
         Quality Assurance engineer/tester, with experience in manual and automated testing.
       </p>
-      <h3>Interests</h3>
-      <p>Electronics hobbyist. Bible Scholar. Exercise enthusiast.</p>
     </div>
   );
 };
