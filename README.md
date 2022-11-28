@@ -15,3 +15,4 @@ The Scrimba template file url: https://www.figma.com/file/pTLddU6bmsbHF4q16Yejpc
 6. Create the Info component, add a profile photo and style.
 7. Reposition the About component in the Info component.
 8. Create the Interest component.
+9. Affix font-awesome glyphicon to the button

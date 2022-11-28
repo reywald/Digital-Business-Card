@@ -3,6 +3,9 @@ import Profile from "../images/profile_pic.jpg";
 import About from './About';
 import Interests from "./Interests";
 
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
+
 const Info = () => {
   return (
     <main>
@@ -10,10 +13,13 @@ const Info = () => {
       <h1>Ikechukwu Agbarakwe</h1>
       <h4>Developer / QA Engineer</h4>
       <a href="https://github.com/reywald">No website</a>
-      <button>Email</button>
-
+      <button>
+        <span>
+          <FontAwesomeIcon icon={faEnvelope} />
+        </span>
+        Email
+      </button>
       <About />
-
       <Interests />
     </main>
   );
